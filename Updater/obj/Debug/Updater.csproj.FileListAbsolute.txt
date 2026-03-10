@@ -1,0 +1,7 @@
+D:\Project\SAP_Deli_ARInvoice\SAP_Deli_ARInvoice_Winform\Updater\bin\Debug\Updater.exe.config
+D:\Project\SAP_Deli_ARInvoice\SAP_Deli_ARInvoice_Winform\Updater\bin\Debug\Updater.exe
+D:\Project\SAP_Deli_ARInvoice\SAP_Deli_ARInvoice_Winform\Updater\bin\Debug\Updater.pdb
+D:\Project\SAP_Deli_ARInvoice\SAP_Deli_ARInvoice_Winform\Updater\obj\Debug\Updater.csproj.AssemblyReference.cache
+D:\Project\SAP_Deli_ARInvoice\SAP_Deli_ARInvoice_Winform\Updater\obj\Debug\Updater.csproj.CoreCompileInputs.cache
+D:\Project\SAP_Deli_ARInvoice\SAP_Deli_ARInvoice_Winform\Updater\obj\Debug\Updater.exe
+D:\Project\SAP_Deli_ARInvoice\SAP_Deli_ARInvoice_Winform\Updater\obj\Debug\Updater.pdb
